@@ -1,40 +1,49 @@
 Blinkit Sales Analysis Dashboard
 
-Project Overview
+📊 Project Overview
 
-This project analyzes Blinkit grocery sales data using SQL Server and Power BI.
+This project analyzes Blinkit grocery sales data using Power BI. The dashboard provides insights into sales performance, outlet performance, product categories, and customer ratings.
 
-Tools Used
+🛠 Tools & Technologies
 
 - Power BI
 - DAX
 - Power Query
 - Excel
 
-KPIs
+📈 Key Performance Indicators (KPIs)
 
-- Total Sales
-- Average Sales
-- Number of Items Sold
-- Average Rating
+- Total Sales: $1.20M
+- Average Sales: $141
+- Number of Items Sold: 8523
+- Average Rating: 3.9
 
-Dashboard Features
+🔍 Dashboard Features
 
 - Sales Performance Analysis
-- Outlet Analysis
-- Item Type Analysis
+- Outlet Type Analysis
+- Item Category Analysis
 - Fat Content Analysis
-- Interactive Filters
+- Interactive Filters and Slicers
 
-Key Insights
+💡 Key Insights
 
-- Identified top-performing outlet types.
-- Compared sales across locations.
-- Analyzed customer ratings and item visibility.
-- Evaluated category-wise sales performance.
+- Supermarket Type 1 generated the highest sales.
+- Regular fat content products contributed more revenue.
+- Tier 3 outlets showed strong sales performance.
+- Fruits and Snack Foods were among the top-selling categories.
 
-Project Files
+📂 Files Included
 
-- Power BI Dashboard (.pbix)
-- Dataset
-- Dashboard pdf
+- Blinkit.pbix
+- BlinkIT Grocery Data.xlsx
+- README.md
+
+🎯 Skills Demonstrated
+
+- Data Cleaning
+- Data Modeling
+- DAX Calculations
+- Dashboard Design
+- Business Intelligence
+- Data Visualization
