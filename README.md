@@ -48,6 +48,6 @@ This project analyzes Blinkit grocery sales data using Power BI. The dashboard p
 - Business Intelligence
 - Data Visualization
 
-- Dashboard Preview
-- ![Dashboard]
-- (Blinkit_Sales.png)
+## Dashboard Preview
+
+![Blinkit Dashboard](Blinkit_sales.png)
